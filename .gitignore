@@ -1,0 +1,4 @@
+faceserver
+vendor/
+/public/upload/*.*
+!/public/upload
